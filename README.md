@@ -37,3 +37,6 @@ Además, en el curso encontrarás ejercicios, datasets para practicar basados en
 - Analistas de datos que quieran ir más allá gracias al Machine Learning
 - Cualquier persona que no esté satisfecha con su propio trabajo y busque empezar a trabajar como un Data Scientist profesional
 - Cualquier persona que quiera dar valor añadido a su propia empresa utilizando las potentes herramientas de Machine Learning
+
+# Que esperamos
+- Con este archivo trabajaremos en paralelo el curso y adicional ingresaremos información relevante
